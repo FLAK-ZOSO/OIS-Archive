@@ -1,8 +1,9 @@
 /*
- * Author: Enea Scaccabarozzi
- * Date: 2022-03-13
- * Problem: Encrypted Contacts
- * Reference: https://training.olinfo.it/#/task/ois_ransomware/statement
+ * @Author: Enea Scaccabarozzi
+ * @Date: 2022-03-13
+ * @Problem: Encrypted Contacts
+ * @Reference: https://training.olinfo.it/#/task/ois_ransomware/statement
+ * @Big-O: O(N)
  */
 
 #include <iostream>
