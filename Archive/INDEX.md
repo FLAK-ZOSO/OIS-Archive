@@ -6,4 +6,5 @@
 | **Enigmath Machine**   | [enigmath.cpp](Enigmath_Machine/enigmath.cpp)       |                             | 2/5        |
 | **Sport Intelletuali** | [scommessa.cpp](Sport_intellettuali/scommessa.cpp)  | **Math**                    | 2/5        |
 | **Tesla Motors**       | [tesla.cpp](Tesla_Motors/tesla.cpp)                 | **DP** **Greedy** **Graph** | *Unset*    |
+| **Text Editor**        | [editor.cpp](Text_Editor/editor.cpp)                | **Greedy**                  | 1/5        |
 
