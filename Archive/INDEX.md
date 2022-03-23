@@ -8,6 +8,7 @@
 | **Enigmath Machine**               | [enigmath.cpp](Enigmath_Machine/enigmath.cpp)                    |                                                 | 2/5        |
 | **Fibonacci Colonies**             | [fibonaccibug.cpp](Fibonacci_Colonies/fibonaccibug.cpp)          | **DP**                                          | 3/5        |
 | **Ropes Escape**                   | [ropes.cpp](Ropes_Excape/ropes.cpp)                              | **Graph** **Data Structures** **Greedy** **DP** | 1/5        |
+| **Scenic Walkway**                 | [walkway.cpp](Scenic_Walkway/walkway.cpp)                        | **Greedy**                                      | *Unset*    |
 | **Second Dose**                    | [seconddose.cpp](Second_Dose/seconddose.cpp)                     | **Greedy** **Binary Search**                    | 3/5        |
 | **Smart Thermostat**               | [sensor.cpp](Smart_Thermostat/sensor.cpp)                        | **Greedy**                                      | 1/5        |
 | **Solving Wordle**                 | [wordle.cpp](Solving_Wordle/wordle.cpp)                          | **Strings**                                     | 1/5        |
