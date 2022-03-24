@@ -4,6 +4,7 @@
 | ---------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------- | ---------- |
 | **Compulsive Smartphone Shopping** | [smartphone.cpp](Compulsive_Smartphones_Shopping/smartphone.cpp) | **Greedy**                                      | 1/5        |
 | **Do Not Gather!**                 | [gatherings.cpp](Do_Not_gather!/gatherings.cpp)                  | **Greedy** **Binary Search**                    | 2/5        |
+| **Dream Team Selection**           | [dreamteam.cpp](Dream_Team_Selection/dreamteam.cpp)              | **Greedy**                                      | *Unset*    |
 | **Encrypted Contacts**             | [ransomware.cpp](Encrypted_Contacts/ransomware.cpp)              | **Strings**                                     | 2/5        |
 | **Enigmath Machine**               | [enigmath.cpp](Enigmath_Machine/enigmath.cpp)                    |                                                 | 2/5        |
 | **Fibonacci Colonies**             | [fibonaccibug.cpp](Fibonacci_Colonies/fibonaccibug.cpp)          | **DP**                                          | 3/5        |
