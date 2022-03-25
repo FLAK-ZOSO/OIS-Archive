@@ -17,5 +17,6 @@
 | **Sport Intelletuali**             | [scommessa.cpp](Sport_intellettuali/scommessa.cpp)               | **Math**                                        | 2/5        |
 | **Tesla Motors**                   | [tesla.cpp](Tesla_Motors/tesla.cpp)                              | **DP** **Greedy** **Graph**                     | *Unset*    |
 | **Text Editor**                    | [editor.cpp](Text_Editor/editor.cpp)                             | **Greedy**                                      | 1/5        |
+| **Turni di Guardia**               | [turni.cpp](Turni_Di_Guardia/turni.cpp)                          | **Greedy**                                      | 2/5        |
 | **Words, Just Words**              | [words2.cpp](Words_Just_Words/words2.cpp)                        | **Greedy**                                      | 1/5        |
 
