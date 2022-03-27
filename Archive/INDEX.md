@@ -16,6 +16,7 @@
 | **Fibonacci Colonies**             | [fibonaccibug.cpp](Fibonacci_Colonies/fibonaccibug.cpp)          | **DP**                                                | 3/5            |
 | **Finanza Creativa**               | [ois_bilancio.cpp](Finanza_Creativa/ois_bilancio.cpp)            | **Greedy**                                            | *Unset*        |
 | **Mozzarelle Di Bufala**           | [bufala.cpp](Mozzarelle_Di_Bufala/bufale.cpp)                    | **Greedy**                                            | *Unset*        |
+| **Quantum Brackets**               | [brackets.cpp](Quantum_Brackets/brackets.cpp)                    | **Greedy** • **Data Structures**                      | 3/5            |
 | **Ropes Escape**                   | [ropes.cpp](Ropes_Excape/ropes.cpp)                              | **Graph** • **Data Structures** • **Greedy** • **DP** | 1/5            |
 | **Scenic Walkway**                 | [walkway.cpp](Scenic_Walkway/walkway.cpp)                        | **Greedy**                                            | *Unset*        |
 | **Second Dose**                    | [seconddose.cpp](Second_Dose/seconddose.cpp)                     | **Greedy** • **Binary Search**                        | 3/5            |
