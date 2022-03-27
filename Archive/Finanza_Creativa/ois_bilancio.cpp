@@ -1,7 +1,7 @@
 /*
  * @Author: Enea Scaccabarozzi
  * @Date: 2022-03-26
- * @Problem: Mozzarelle di Bufala
+ * @Problem: Finanza Creativa
  * @Reference: https://training.olinfo.it/#/task/ois_bilancio/statement
  * @Big-O: O(N)
  */
