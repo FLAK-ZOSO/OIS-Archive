@@ -9,7 +9,8 @@
 | 📖 Title 📖                          | 📁 File 📁                                                         | 🏷️ Tags 🏷️                                              | ⚡ Difficulty ⚡ |
 | ---------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------- | -------------- |
 | **Compulsive Smartphone Shopping** | [smartphone.cpp](Compulsive_Smartphones_Shopping/smartphone.cpp) | **Greedy**                                            | 1/5            |
-| **Controlla l'Accampamento** | [padrun.cpp](Controllare_l_Accampamento/padrun.cpp) | **Greedy** | 1/5 | 
+| **Controlla l'Accampamento**       | [padrun.cpp](Controllare_l_Accampamento/padrun.cpp)              | **Greedy**                                            | 1/5            |
+| **Convegno Aziendale**             | [convegno.cpp](Convegno_Aziendale/convegno.cpp)                  | **Graph** • **DP** • **Greedy** • **Math**            | *Unset*        |
 | **Do Not Gather!**                 | [gatherings.cpp](Do_Not_gather!/gatherings.cpp)                  | **Greedy** • **Binary Search**                        | 2/5            |
 | **Dream Team Selection**           | [dreamteam.cpp](Dream_Team_Selection/dreamteam.cpp)              | **Greedy**                                            | *Unset*        |
 | **Encrypted Contacts**             | [ransomware.cpp](Encrypted_Contacts/ransomware.cpp)              | **Strings**                                           | 2/5            |
