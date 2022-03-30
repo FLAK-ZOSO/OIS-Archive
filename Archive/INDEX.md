@@ -26,8 +26,10 @@
 | **Solving Wordle**                 | [wordle.cpp](Solving_Wordle/wordle.cpp)                          | **Strings**                                           | 1/5            |
 | **Somme Costose**                  | [somme.cpp](Somme_Costose/somme.cpp)                             | **Greedy** • **Data Structures**                      | *Unset*        |
 | **Sport Intelletuali**             | [scommessa.cpp](Sport_intellettuali/scommessa.cpp)               | **Math**                                              | 2/5            |
+| **Studio Amico**                   | [studioamico.cpp](Studio_amico/studioamico.cpp)                  | **Greedy* • **DP**                                    | *Unset*        |
 | **Tesla Motors**                   | [tesla.cpp](Tesla_Motors/tesla.cpp)                              | **DP** • **Greedy** • **Graph**                       | *Unset*        |
 | **Text Editor**                    | [editor.cpp](Text_Editor/editor.cpp)                             | **Greedy**                                            | 1/5            |
+| **Trova la Parità**                | [pari.c](Trova_la_parità/pari.c)                                 |                                                       | *Brutal*       |
 | **Turni di Guardia**               | [turni.cpp](Turni_Di_Guardia/turni.cpp)                          | **Greedy**                                            | 2/5            |
 | **Viaggio In Taxi**                | [taxi.cpp](Viaggio_In_Taxi/taxi.cpp)                             | **Greedy**                                            | *Unset*        |
 | **Words, Just Words**              | [words2.cpp](Words_Just_Words/words2.cpp)                        | **Greedy**                                            | 1/5            |
