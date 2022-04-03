@@ -1,3 +1,11 @@
+/*
+ * @Author: Alessandro Farcas (Alenygam)
+ * @Date: 2022-04-03
+ * @Problem: La dieta di poldo
+ * @Reference: https://training.olinfo.it/#/task/poldo/statement
+ * @Big-O: O(N^2)
+ */
+
 #include <bits/stdc++.h>
 #define NMAX 10000
 
