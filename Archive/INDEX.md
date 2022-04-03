@@ -14,10 +14,11 @@
 | **Do Not Gather!**                 | [gatherings.cpp](Do_Not_gather!/gatherings.cpp)                  | **Greedy** • **Binary Search**                        | 2/5            |
 | **Dream Team Selection**           | [dreamteam.cpp](Dream_Team_Selection/dreamteam.cpp)              | **Greedy**                                            | *Unset*        |
 | **Encrypted Contacts**             | [ransomware.cpp](Encrypted_Contacts/ransomware.cpp)              | **Strings**                                           | 2/5            |
-| **Enigmath Machine**               | [enigmath.cpp](Enigmath_Machine/enigmath.cpp)                    |                                                       | 2/5            |
+| **Enigmath Machine**               | [enigmath.cpp](Enigmath_Machine/enigmath.cpp)                    | **Complete Search**                                   | 2/5            |
 | **Fibonacci Colonies**             | [fibonaccibug.cpp](Fibonacci_Colonies/fibonaccibug.cpp)          | **DP**                                                | 3/5            |
 | **Finanza Creativa**               | [ois_bilancio.cpp](Finanza_Creativa/ois_bilancio.cpp)            | **Greedy**                                            | *Unset*        |
 | **Mozzarelle Di Bufala**           | [bufala.cpp](Mozzarelle_Di_Bufala/bufale.cpp)                    | **Greedy**                                            | *Unset*        |
+| **La dieta di poldo**              | [poldo.cpp](La_dieta_di_Poldo/poldo.cpp)                         | **DP**                                                | *Unset*        |
 | **Quantum Brackets**               | [brackets.cpp](Quantum_Brackets/brackets.cpp)                    | **Greedy** • **Data Structures**                      | 3/5            |
 | **Ropes Escape**                   | [ropes.cpp](Ropes_Excape/ropes.cpp)                              | **Graph** • **Data Structures** • **Greedy** • **DP** | 1/5            |
 | **Scenic Walkway**                 | [walkway.cpp](Scenic_Walkway/walkway.cpp)                        | **Greedy**                                            | *Unset*        |
@@ -26,7 +27,7 @@
 | **Solving Wordle**                 | [wordle.cpp](Solving_Wordle/wordle.cpp)                          | **Strings**                                           | 1/5            |
 | **Somme Costose**                  | [somme.cpp](Somme_Costose/somme.cpp)                             | **Greedy** • **Data Structures**                      | *Unset*        |
 | **Sport Intelletuali**             | [scommessa.cpp](Sport_intellettuali/scommessa.cpp)               | **Math**                                              | 2/5            |
-| **Studio Amico**                   | [studioamico.cpp](Studio_amico/studioamico.cpp)                  | **Greedy* • **DP**                                    | *Unset*        |
+| **Studio Amico**                   | [studioamico.cpp](Studio_amico/studioamico.cpp)                  | **Greedy** • **DP**                                   | *Unset*        |
 | **Tesla Motors**                   | [tesla.cpp](Tesla_Motors/tesla.cpp)                              | **DP** • **Greedy** • **Graph**                       | *Unset*        |
 | **Text Editor**                    | [editor.cpp](Text_Editor/editor.cpp)                             | **Greedy**                                            | 1/5            |
 | **Trova la Parità**                | [pari.c](Trova_la_parità/pari.c)                                 |                                                       | *Brutal*       |
