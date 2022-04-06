@@ -31,6 +31,7 @@
 | **Studio Amico**                   | [studioamico.cpp](Studio_amico/studioamico.cpp)                  | **Greedy** • **DP**                                   | *Unset*        |
 | **Tesla Motors**                   | [tesla.cpp](Tesla_Motors/tesla.cpp)                              | **DP** • **Greedy** • **Graph**                       | *Unset*        |
 | **Text Editor**                    | [editor.cpp](Text_Editor/editor.cpp)                             | **Greedy**                                            | 1/5            |
+| **Tieni aggiornato il catalogo**   | [catalogo.cpp](Tieni_aggiornato_il_catalogo/catalogo.cpp)        | **Data Structures**                                   | *Unset*        |
 | **Trova il massimo**               | [massimo.c](Trova_il_massimo/massimo.c)                          |                                                       | *Absolutely bonkers* |
 | **Trova la Parità**                | [pari.c](Trova_la_parità/pari.c)                                 |                                                       | *Brutal*       |
 | **Turni di Guardia**               | [turni.cpp](Turni_Di_Guardia/turni.cpp)                          | **Greedy**                                            | 2/5            |
