@@ -33,7 +33,7 @@ void solve(int x, int y)
                 // Check if itsn't an obstacle
                 if(steps[x + i][y + j] != -1)
                 {
-                    // Check if current stpo it has a worst scrore than the one of the standing one plus one
+                    // Check if current spot it has a worst scrore than the one of the standing one plus one
                     // or if it is still unstepped
                     if(steps[x + i][y + j] > steps[x][y] + 1 || steps[x + i][y + j] == 0)
                     {
