@@ -38,3 +38,4 @@
 | **Turni di Guardia**               | [turni.cpp](Turni_Di_Guardia/turni.cpp)                          | **Greedy**                                            | 2/5                  |
 | **Viaggio In Taxi**                | [taxi.cpp](Viaggio_In_Taxi/taxi.cpp)                             | **Greedy**                                            | *Unset*              |
 | **Words, Just Words**              | [words2.cpp](Words_Just_Words/words2.cpp)                        | **Greedy**                                            | 1/5                  |
+| **Biglietti a Milano**             | [biglietti.cpp](Biglietti/biglietti.cpp)                         | **Greedy**                                            | 1/5                  |
