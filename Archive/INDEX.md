@@ -16,6 +16,7 @@
 | **Dream Team Selection**           | [dreamteam.cpp](Dream_Team_Selection/dreamteam.cpp)              | **Greedy**                                            | *Unset*        |
 | **Encrypted Contacts**             | [ransomware.cpp](Encrypted_Contacts/ransomware.cpp)              | **Strings**                                           | 2/5            |
 | **Enigmath Machine**               | [enigmath.cpp](Enigmath_Machine/enigmath.cpp)                    | **Complete Search**                                   | 2/5            |
+| **Festa di laurea**                | [laurea.c](Festa_di_laurea/laurea.c)                             | **DP**                                                | *Unset*        |
 | **Fibonacci Colonies**             | [fibonaccibug.cpp](Fibonacci_Colonies/fibonaccibug.cpp)          | **DP**                                                | 3/5            |
 | **Finanza Creativa**               | [ois_bilancio.cpp](Finanza_Creativa/ois_bilancio.cpp)            | **Greedy**                                            | *Unset*        |
 | **Mozzarelle Di Bufala**           | [bufala.cpp](Mozzarelle_Di_Bufala/bufale.cpp)                    | **Greedy**                                            | *Unset*        |
