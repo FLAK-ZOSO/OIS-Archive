@@ -19,6 +19,7 @@
 | **Festa di laurea**                | [laurea.c](Festa_di_laurea/laurea.c)                             | **DP**                                                | *Unset*        |
 | **Fibonacci Colonies**             | [fibonaccibug.cpp](Fibonacci_Colonies/fibonaccibug.cpp)          | **DP**                                                | 3/5            |
 | **Finanza Creativa**               | [ois_bilancio.cpp](Finanza_Creativa/ois_bilancio.cpp)            | **Greedy**                                            | *Unset*        |
+| **Mexican Standoff**               | [dessert.cpp](Mexican_standoff/dessert.cpp)                      | **Graph**                                             | 3/5            |
 | **Mozzarelle Di Bufala**           | [bufala.cpp](Mozzarelle_Di_Bufala/bufale.cpp)                    | **Greedy**                                            | *Unset*        |
 | **Numero della cabala**            | [cabala.c](Numero_della_cabala/cabala.c)                         | **Recursion** **Backtracking**                        | 2/5            |
 | **La dieta di poldo**              | [poldo.cpp](La_dieta_di_Poldo/poldo.cpp)                         | **DP**                                                | *Unset*        |
